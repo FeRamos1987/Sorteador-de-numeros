@@ -13,7 +13,7 @@ Basta informar o número mínimo e máximo para realizar o sorteio.
 
 ## 🖼️ Preview
 
-![Preview do projeto](./assets/screenshot.png)
+<img src="./assets/screenshot.png" width="300">
 
 ## 🚀 Funcionalidades
 
